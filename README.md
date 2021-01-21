@@ -16,12 +16,12 @@
 
 # <h4>Languages</h4>
 
-![cats](https://user-images.githubusercontent.com/20421608/105392680-37bcbe00-5bfa-11eb-82d9-6c7077c69050.jpg)
+![cats](https://user-images.githubusercontent.com/20421608/105403063-fed71600-5c06-11eb-8884-eedb754e1a0d.jpg)
 
 
 # <h4>Tools</h4>
 
-![cats1](https://user-images.githubusercontent.com/20421608/105393900-abab9600-5bfb-11eb-98b2-d6cb91599d27.jpg)
+![cats1](https://user-images.githubusercontent.com/20421608/105403065-00a0d980-5c07-11eb-8b99-81a1c4158cbd.jpg)
 
 
 # <h4>Other Social Medias</h4>
