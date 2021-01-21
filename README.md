@@ -8,7 +8,7 @@
 
 📚 I have a degree in Information Systems from Faculdade Pitágoras.
 
-💻 I'm a Scrum Master at <b>@u4crypto</b>.
+💻 My current profession is Scrum Master, but I already worked as a Back-End developer.
 
 🚀 Here I share my work as a DEV and also projects in my current area.
 
