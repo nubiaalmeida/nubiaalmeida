@@ -1,4 +1,4 @@
-# <h2>Welcome to my Github 👩</h2>
+# <h2>Welcome to my Github 💻</h2>
 
 # <h4>About me</h4>
 
@@ -11,7 +11,6 @@
 💻 I'm a Scrum Master at <b>@u4crypto</b>.
 
 🚀 Here I share my work as a DEV and also projects in my current area.
-
 
 
 # <h4>Languages</h4>
