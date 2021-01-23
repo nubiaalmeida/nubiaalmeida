@@ -4,7 +4,9 @@
 
 🎂 I am 26 years old, I live in Belo Horizonte, MG and I am passionate about technologies.
 
-🌱 I am a vegetarian and I care a lot about the environment
+🌱 I am a vegetarian and I care a lot about the environment.
+
+❤️ I have a dog and two cats
 
 📚 I have a degree in Information Systems from Faculdade Pitágoras.
 
