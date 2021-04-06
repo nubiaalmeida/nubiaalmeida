@@ -19,14 +19,14 @@
 ### Área profissional:
 
 
-Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/in/nubiaalmeida/"><b>LinkedIn</b><a/>, mas de forma resumida:
+Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/in/nubiaalmeida/" target="_blank"><b>LinkedIn</b><a/>, mas de forma resumida:
 
 💻 Fui Desenvolvedora Full-Stack.
 
 💡  Fui Líder de Squad.
 
-🟣 Hoje sou Scrum Master na <a href="https://www.u4crypto.com/"><b>U4crypto</b><a/>.
+🟣 Hoje sou Scrum Master na <a href="https://www.u4crypto.com/" target="_blank"><b>U4crypto</b><a/>.
 
 
-#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/"><b>Portfólio</b><a/>
+#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>
 
