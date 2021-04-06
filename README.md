@@ -1,6 +1,6 @@
-# <h2>Seja bem-vindo(a) ao meu Github 💻</h2>
+## Seja bem-vindo(a) ao meu Github 💻
 
-### Quem sou eu?:
+### Quem sou eu:
 
 🎂 Tenho 26 anos, nasci em: 25/06/1994. 
 
@@ -14,20 +14,19 @@
 
 📚 Sou graduada em Sistemas de Informação pela Faculdade Pitágoras.
 
+<br>
+
+### Área profissional:
 
 
-
-### Area profissional:
-
-
-Minha trajetória está bem detalhada no meu<a href="https://www.linkedin.com/in/nubiaalmeida/"><b>LinkedIn</b><a/>, Mas de forma resumida:
+Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/in/nubiaalmeida/"><b>LinkedIn</b><a/>, mas de forma resumida:
 
 💻 Fui Desenvolvedora Full-Stack.
 
 💡  Fui Líder de Squad.
 
-🟣 E hoje sou Scrum Master na <a href="https://www.u4crypto.com/"><b>U4crypto</b><a/> 
+🟣 Hoje sou Scrum Master na <a href="https://www.u4crypto.com/"><b>U4crypto</b><a/>.
 
 
-###### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/"><b>Portfólio</b><a/>
+#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/"><b>Portfólio</b><a/>
 
