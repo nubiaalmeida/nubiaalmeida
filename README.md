@@ -1,28 +1,18 @@
-# <h2>Welcome to my Github 💻</h2>
+# <h2>Seja bem-vindo(a) ao meu Github 💻</h2>
 
-# <h4>About me</h4>
+### Sobre mim:
 
-🎂 I am 26 years old, I live in Belo Horizonte, MG and I am passionate about technologies.
+🎂 Tenho 26 anos, nasci em: 25/06/1994. 
 
-🌱 I am a vegetarian and I care a lot about the environment.
+🏡 Moro em Belo Horizonte, MG.
 
-❤️ I have a dog and two cats
+🌱 Sou vegetariana, vegana em processo e me preocupo com o meio ambiente.
 
-📚 I have a degree in Information Systems from Faculdade Pitágoras.
+❤️ Tenho duas gatas e um cachorro.
 
-💻 My current profession is Scrum Master, but I already worked as a Back-End developer.
+📚 Sou graduada em Sistemas de Informação pela Faculdade Pitágoras.
 
-🚀 Here I share my work as a DEV and also projects in my current area.
-
-
-# <h4>Languages</h4>
-
-![105403063-fed71600-5c06-11eb-8884-eedb754e1a0d](https://user-images.githubusercontent.com/20421608/105561681-47b9c800-5cf6-11eb-8026-64251a9ffc52.jpg)
-
-
-# <h4>Tools</h4>
-
-![cats1](https://user-images.githubusercontent.com/20421608/105404847-347cfe80-5c09-11eb-98ba-3c467c35a16b.jpg)
+💻 Minha profissão atual é Scrum Master, mas já trabalhei como desenvolvedora Back-End.
 
 
 # <h4>Portfólio</h4>
