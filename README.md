@@ -4,6 +4,8 @@
 
 🎂 Tenho 26 anos, nasci em: 25/06/1994. 
 
+♋️ Canceriana com ascendente em Virgem
+
 🏡 Moro em Belo Horizonte, MG.
 
 🌱 Sou vegetariana, vegana em processo e me preocupo com o meio ambiente.
@@ -14,9 +16,8 @@
 
 💻 Minha profissão atual é Scrum Master, mas já trabalhei como desenvolvedora Back-End.
 
+🟣 Sou Scrum Master na <a href="https://www.u4crypto.com/"><b>U4crypto</b><a/> 
 
-# <h4>Portfólio</h4>
 
-<ul>
-  <li>https://nubiaalmeida.github.io/</li>
-</ul>
+🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/"><b>Portfólio</b><a/>
+
