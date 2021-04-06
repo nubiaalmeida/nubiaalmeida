@@ -4,7 +4,7 @@
 
 🎂 Tenho 26 anos, nasci em: 25/06/1994. 
 
-♋️ Canceriana com ascendente em Virgem
+♋️ Canceriana com ascendente em Virgem.
 
 🏡 Moro em Belo Horizonte, MG.
 
@@ -28,5 +28,5 @@ Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/i
 🟣 Hoje sou Scrum Master na <a href="https://www.u4crypto.com/" target="_blank"><b>U4crypto</b><a/>.
 
 
-#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>
+#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>.
 
