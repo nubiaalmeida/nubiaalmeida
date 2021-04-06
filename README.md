@@ -15,7 +15,10 @@
 📚 Sou graduada em Sistemas de Informação pela Faculdade Pitágoras.
 
 
+
+
 ### Area profissional:
+
 
 Minha trajetória está bem detalhada no meu<a href="https://www.linkedin.com/in/nubiaalmeida/"><b>LinkedIn</b><a/>, Mas de forma resumida:
 
