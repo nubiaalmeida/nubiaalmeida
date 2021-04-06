@@ -20,7 +20,9 @@
 Minha trajetória está bem detalhada no meu<a href="https://www.linkedin.com/in/nubiaalmeida/"><b>LinkedIn</b><a/>, Mas de forma resumida:
 
 💻 Fui Desenvolvedora Full-Stack.
+
 💡  Fui Líder de Squad.
+
 🟣 E hoje sou Scrum Master na <a href="https://www.u4crypto.com/"><b>U4crypto</b><a/> 
 
 
