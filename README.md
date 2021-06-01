@@ -25,7 +25,7 @@ Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/i
 
 💡  Fui Líder de Squad.
 
-💜 Hoje sou Scrum Master na <a href="https://www.u4crypto.com/" target="_blank"><b>U4crypto</b><a/>.
+💙 Hoje sou Scrum Master na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
 
 
 #### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>.
