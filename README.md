@@ -23,7 +23,7 @@ Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/i
 
 💻 Fui Desenvolvedora Full-Stack, Líder de Squad, Scrum Master.
 
-💙 E hoje sou Product Manager na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
+💙 Hoje sou Product Manager na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
 
 
 #### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>.
