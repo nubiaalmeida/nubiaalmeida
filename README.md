@@ -2,7 +2,7 @@
 
 ### Quem sou eu:
 
-🎂 Tenho 26 anos, nasci em: 25/06/1994. 
+🎂 Tenho 27 anos, nasci em: 25/06/1994. 
 
 ♋️ Canceriana com ascendente em Virgem.
 
@@ -21,11 +21,9 @@
 
 Minha trajetória está bem detalhada no meu <a href="https://www.linkedin.com/in/nubiaalmeida/" target="_blank"><b>LinkedIn</b><a/>, mas de forma resumida:
 
-💻 Fui Desenvolvedora Full-Stack.
+💻 Fui Desenvolvedora Full-Stack, Líder de Squad, Scrum Master.
 
-💡  Fui Líder de Squad.
-
-💙 Hoje sou Scrum Master na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
+💙 E hoje sou Product Manager na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
 
 
 #### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>.
