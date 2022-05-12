@@ -2,6 +2,7 @@
 
 ### Quem sou eu:
 
+<img src="https://theproductmanager.com/wp-content/uploads/2021/08/Product-Management-Writer-Featured-Image-585x775.png" width="30%" align="right">
 🎂 Tenho 27 anos. 
 
 ♋️ Canceriana com ascendente em Virgem.
