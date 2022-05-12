@@ -26,7 +26,7 @@ Minha trajetória está bem detalhada no meu <b>LinkedIn</b>, mas de forma resum
 💙 Hoje sou Product Manager na <a href="https://cmtecnologia.com.br/" target="_blank"><b>CM Tecnologia</b><a/>.
 
 
-#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/" target="_blank"><b>Portfólio</b><a/>.
+#### 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/portfolio/" target="_blank"><b>Portfólio</b><a/>.
 
 
 
