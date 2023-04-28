@@ -20,7 +20,7 @@ Minha trajetória está bem detalhada no meu <b>LinkedIn</b>, mas de forma resum
 
 - 💻 Fui Desenvolvedora Back-End, Líder de Squad, Scrum Master...
 
-- 💙 Hoje sou Product Manager na <a href="https://idun.com.br/" target="_blank"><b>iDun</b><a/>.
+- 💙 Hoje sou Product Manager na <a href="https://ducash.com.br/" target="_blank"><b>Ducash</b><a/>.
   
 - 🖱 Conheça um pouco mais sobre minhas habilidades acessando o meu <a href="https://nubiaalmeida.github.io/portfolio/" target="_blank"><b>Portfólio</b><a/>. 
 
